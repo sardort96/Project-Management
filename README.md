@@ -7,4 +7,4 @@ The program manages several resources in the project. In addition, users are abl
 * **Consultant**: A consultant has a specific time based budget.
 
 ## UML
-![](uml.png)
+![](uml.PNG)
